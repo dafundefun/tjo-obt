@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 42.1 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #61574a;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #61574a;
+      }
+
+      .cls-3 {
+        fill: #d1c7b6;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="_圖層_1" data-name="圖層_1">
+      <path class="cls-3" d="M42.1,60h-12.1C18.3,48.3,11.7,41.7,0,30h0C11.7,18.3,18.3,11.7,30,0h12.1v60Z"/>
+      <polyline class="cls-1" points="33.7 9.3 13 30 33.7 50.7"/>
+      <rect class="cls-2" x="14.5" y="26.3" width="7.4" height="7.4" transform="translate(-15.9 21.6) rotate(-45)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,116 @@
+@keyframes shinyRed {
+    0%{
+        
+    text-shadow: 0 0 5px red;
+    }
+    50%{
+        text-shadow: 0 0 10px red, 0 0 10px red, 0 0 10px red, 0 0 15px red;
+    }
+    100%{
+        
+        text-shadow: 0 0 5px red;
+    }
+    
+}
+
+@keyframes shinyBlue {
+    0%{
+        
+    text-shadow: 0 0 5px #8fc9ff;
+    }
+    50%{
+        text-shadow: 0 0 10px #8fc9ff, 0 0 10px #8fc9ff, 0 0 15px #8fc9ff;
+    }
+    100%{
+        
+        text-shadow: 0 0 5px #8fc9ff;
+    }
+    
+}
+@keyframes shiny {
+    0%{
+        
+    text-shadow: 0 0 5px #ffda81;
+    }
+    50%{
+        text-shadow: 0 0 10px #ffda81, 0 0 10px #ffda81, 0 0 10px #ffda81;
+    }
+    100%{
+        
+        text-shadow: 0 0 5px #ffda81;
+    }
+    
+}
+
+@keyframes arrowDown {
+    0%{
+        transform: translateY(0);
+        opacity: 0;
+    }
+    80%{
+        transform: translateY(2rem);
+        opacity: 1;
+    }
+    100%{
+        transform: translateY(2rem);
+        opacity: 0;
+    }
+}
+
+@keyframes slideIn{
+    0%{
+        transform: translateX(50%);
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+@keyframes popIn {
+    0%{
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    100%{
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes jumping {
+    0%{
+        transform: translateY(0);
+    }
+    70%{
+        transform: translateY(-10px);
+    }
+    75%{
+        transform: translateY(0px);
+    }
+    80%{
+        transform: translateY(-5px);
+    }
+    84%{
+        transform: translateY(0px);
+    }
+    87%{
+        transform: translateY(-2px);
+    }
+    90%{
+        transform: translateY(0px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+    
+}
